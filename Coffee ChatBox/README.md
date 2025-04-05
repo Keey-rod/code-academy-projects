@@ -30,7 +30,7 @@ This bot guides users through placing a coffee order by asking questions and res
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/coffee-chat-bot.git
-cd coffee-chatbot
+cd coffee-chat-bot
 ```
 2. Run the script:
 ```bash
