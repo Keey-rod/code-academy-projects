@@ -36,7 +36,7 @@ A command-line Python program that simulates a virtual coffee ordering assistant
 ---
 
 ### Other Projects
-
+[Time Traveler's Toolkit](./Time%20Traveler's%20Toolkit/readme.md)
 ---
 
 ## Technologies Used

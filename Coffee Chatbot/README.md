@@ -1,6 +1,6 @@
-# Coffee Chat Bot (Codeacademy Project)
+# Coffee Chat Bot (Codecademy Project)
 
-Welcome to the **bold Coffee Chat Bot**! This project is part of the Codeacademy course and was built to simulate a conversational assistant that helps customers place coffee orders. It demonstrates basic Python programming, control flow, and user input handling through simple command-line interface.
+Welcome to the **Coffee Chat Bot**! This project is part of the Codecademy course and was built to simulate a conversational assistant that helps customers place coffee orders. It demonstrates basic Python programming, control flow, and user input handling through simple command-line interface.
 
 ## Table of Contents
 * [Overview](#overview)
@@ -38,10 +38,9 @@ python3 coffee_chat_bot.py
 ```
 Make sure you have Python3 installed on your machine
 
-## Usage 
-This program is run from the terminal and interacts with the user via prompts. Here's an example flow:
 
-## Project Structure
+
+
 
 
 
